@@ -1,0 +1,15 @@
+pre{
+	color: white;
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+}
+body{
+	background-color: black;
+	background-image: url(images/bck2.jpg);
+		background-size: 40% 80%;
+	background-position: right;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}

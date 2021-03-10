@@ -1,0 +1,80 @@
+.mem{
+  position: absolute;
+  top: 70px;
+  left: 550px;
+}
+.memi{
+  border-radius: 12px;
+  background-color: orange;
+  padding: 16px;
+  border: none;
+}
+
+.mem:hover .memi{background-color: white}
+
+.abt{
+  position: absolute;
+  top: 70px;
+  left: 950px;
+}
+.abouti{ border-radius: 12px;
+  background-color: orange;
+  padding: 16px;
+  border: none;
+}
+
+.abt,.abouti{
+  width: 100px;
+}
+
+.abt:hover .abouti {background-color: white}
+
+.hmpg{
+position: absolute;
+top: 70px;
+left: 350px;
+}
+
+.hmi{ border-radius: 12px;
+    background-color: orange;
+  padding: 16px;
+  border: none;
+}
+
+.hmpg,.hmi{
+  width: 100px;
+}
+
+.hmpg:hover .hmi {background-color: white;}
+
+
+.glry{
+position: absolute;
+display: inline-block;
+left: 780px;
+top: 70px;
+}
+.gli{ border-radius: 12px;
+  background-color: orange;
+  padding: 16px;
+  border: none;
+}
+.gls-content{
+  display: none;
+  position: relative;
+  background-color: orange;
+}
+.gls-content a {
+    color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+
+.gls-content a:hover {background-color: #ddd;}
+
+.glry:hover .gls-content {display: block;}
+
+.glry:hover .gli {background-color: white;}
+

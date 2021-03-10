@@ -1,0 +1,17 @@
+body{
+background-color: black;
+background-image: url(images/bck.jpg);
+background-size: 30%;
+}
+
+
+label{
+	color: white;
+
+
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
